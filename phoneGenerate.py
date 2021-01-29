@@ -5,7 +5,7 @@ url = 'https://randommer.io/api/Phone/Generate'
 
 h = {'X-Api-Key': key}
 query = {
-    'CountryCode ': 'uz',
+    'CountryCode ': 'UZ',
     'Quantity': 1
 }
 
